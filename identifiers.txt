@@ -1,0 +1,14 @@
+cin
+endl
+INT_MIN
+iomanip
+main
+npos
+std
+cout
+include
+INT_MAX
+iostream
+MAX_RAND
+NULL
+string
