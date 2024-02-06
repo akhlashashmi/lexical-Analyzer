@@ -45,7 +45,7 @@ Make sure you have a C++ compiler installed on your system.
 
 ## Notes
 
-- The program requires two additional files:
+- The program requires few additional files:
   - `keywords.txt`: Contains a list of keywords.
   - `Identifiers.txt`: Contains a list of predefined identifiers.
   - `operators.txt`: Contains a list of operators.
