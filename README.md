@@ -56,4 +56,6 @@ Make sure you have a C++ compiler installed on your system.
 Suppose you have a file named `program.cpp` containing the source code. You can run the program as follows:
 
 ```bash
-./token_classifier
+g++ LexicalAnalyzer.cpp -o g++ LexicalAnalyzer
+./LexicalAnalyzer
+
