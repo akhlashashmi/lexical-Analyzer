@@ -56,6 +56,6 @@ Make sure you have a C++ compiler installed on your system.
 Suppose you have a file named `program.cpp` containing the source code. You can run the program as follows:
 
 ```bash
-g++ LexicalAnalyzer.cpp -o g++ LexicalAnalyzer
+g++ LexicalAnalyzer.cpp -o LexicalAnalyzer
 ./LexicalAnalyzer
 
