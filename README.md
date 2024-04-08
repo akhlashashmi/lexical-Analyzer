@@ -14,7 +14,7 @@ Make sure you have a C++ compiler installed on your system.
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/token-classifier.git
+    git clone https://github.com/akhlashashmi/token-classifier.git
     ```
 
 2. Compile the source code:

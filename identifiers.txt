@@ -1,4 +1,5 @@
 cin
+cout
 endl
 INT_MIN
 iomanip
